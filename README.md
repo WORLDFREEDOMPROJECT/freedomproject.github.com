@@ -1,1 +1,1 @@
-# freedomproject.github.com
+# freedomproject.github.io
